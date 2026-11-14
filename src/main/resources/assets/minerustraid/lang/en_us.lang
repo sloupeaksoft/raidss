@@ -1,0 +1,11 @@
+item.minerustraid.rocket_launcher.name=Rocket Launcher
+item.minerustraid.rocket.name=Rocket
+tile.minerustraid.satchel_wall.name=Satchel charge
+tile.minerustraid.c4_wall.name=C4 - Time Charge
+entity.minerustraid.rocket.name=Rocket
+msg.minerustraid.only_wall=Charges can only be placed on the side of a wall or door!
+msg.minerustraid.only_minerust=Charges can only be placed on MineRust walls and doors!
+msg.minerustraid.full=No more space for charges here!
+msg.minerustraid.blocked=Something is in the way!
+msg.minerustraid.no_rockets=No rockets!
+tooltip.minerustraid.rocket_launcher=Wood 2 / Stone 4 / Metal 8 / Armored 12 / Iron door 2 rockets

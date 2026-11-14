@@ -1,0 +1,11 @@
+item.minerustraid.rocket_launcher.name=Ракетница
+item.minerustraid.rocket.name=Ракета
+tile.minerustraid.satchel_wall.name=Сачель
+tile.minerustraid.c4_wall.name=C4
+entity.minerustraid.rocket.name=Ракета
+msg.minerustraid.only_wall=Заряд можно повесить только на боковую сторону стены или двери!
+msg.minerustraid.only_minerust=Заряд можно повесить только на стены и двери MineRust!
+msg.minerustraid.full=Сюда больше нельзя повесить заряды!
+msg.minerustraid.blocked=Место занято!
+msg.minerustraid.no_rockets=Нет ракет!
+tooltip.minerustraid.rocket_launcher=Дерево 2 / Камень 4 / Металл 8 / МВК 12 / Железная дверь 2 ракеты

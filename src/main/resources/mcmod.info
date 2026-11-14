@@ -1,0 +1,18 @@
+[
+  {
+    "modid": "minerustraid",
+    "name": "MineRust Raid Addon",
+    "description": "Raid addon for MineRust: wall satchels/C4, iron door raiding, rocket launcher, block damage cracks.",
+    "version": "1.0.0",
+    "mcversion": "1.12.2",
+    "authorList": [
+      "netrfloox"
+    ],
+    "dependencies": [
+      "minerustaddons"
+    ],
+    "requiredMods": [
+      "minerustaddons"
+    ]
+  }
+]

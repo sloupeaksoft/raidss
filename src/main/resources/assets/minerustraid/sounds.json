@@ -1,0 +1,65 @@
+{
+  "c4_place": {
+    "category": "block",
+    "sounds": [
+      {
+        "name": "minerustraid:c4_place",
+        "stream": false
+      }
+    ]
+  },
+  "c4_beep": {
+    "category": "block",
+    "sounds": [
+      {
+        "name": "minerustraid:c4_beep",
+        "stream": false
+      }
+    ]
+  },
+  "c4_explode": {
+    "category": "block",
+    "sounds": [
+      {
+        "name": "minerustraid:c4_explode",
+        "stream": false
+      }
+    ]
+  },
+  "satchel_place": {
+    "category": "block",
+    "sounds": [
+      {
+        "name": "minerustraid:satchel_place",
+        "stream": false
+      }
+    ]
+  },
+  "satchel_fuse": {
+    "category": "block",
+    "sounds": [
+      {
+        "name": "minerustraid:satchel_fuse",
+        "stream": false
+      }
+    ]
+  },
+  "satchel_explode": {
+    "category": "block",
+    "sounds": [
+      {
+        "name": "minerustraid:satchel_explode",
+        "stream": false
+      }
+    ]
+  },
+  "stone_destroy": {
+    "category": "block",
+    "sounds": [
+      {
+        "name": "minerustraid:stone_destroy",
+        "stream": false
+      }
+    ]
+  }
+}
